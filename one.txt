@@ -5,3 +5,4 @@ git is light weight
 git is nice tool
 git is distributed
 
+git is fast
